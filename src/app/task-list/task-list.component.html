@@ -1,0 +1,17 @@
+<!-- task-list.component.html -->
+<div class="container">
+    <h1>Lista de Tareas</h1>
+  
+    <!-- Aquí muestra la lista de tareas -->
+    <ul>
+      <li *ngFor="let tarea of tasks">
+        {{ tarea }}
+        <button (click)="removeTask(i)">Eliminar</button>
+      </li>
+    </ul>
+  
+    <!-- Formulario para agregar tarea -->
+    <input type="text" [(ngModel)]="newTask" placeholder="Agregar tarea" />
+    <button (click)="addTask()">Agregar</button>
+  </div>
+  
