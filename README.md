@@ -4,7 +4,7 @@ Este es un proyecto de lista de tareas hecho con Angular. A continuación puedes
 
 ## Vista previa de la aplicación
 
-![Vista previa](https://github.com/Deivincci/tareas_angular/raw/main/imagen1.png)
+![Vista previa](https://github.com/Deivincci/tareas_angular/raw/main/imagen1.png)](https://github.com/Deivincci/tareas_angular/blob/main/pantallazo1.png?raw=true)
 
 ## Características
 
